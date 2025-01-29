@@ -59,4 +59,10 @@ Foi utilizado as seguintes bibliotecas para a análise:
 * catboost - version: 1.2.2
 * Python - version: 3.11.5
 
+**Relatório:**
 
+O relatório das análises estatísticas e EDA desse projeto se encontra no arquivo " LH_CD_AUGUSTOpdf.pdf ".
+
+**Código:**
+
+O código de modelagem no Jupyter Notebook desse projeto se encontra no arquivo " LH_CD_AUGUSTO.ipynb ".
